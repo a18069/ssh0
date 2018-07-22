@@ -7,6 +7,7 @@ public class Test {
         System.out.println(1223323);
         System.out.println(2222);
         System.out.println(222222);
+         System.out.println(22555552);
 
     }
 }
